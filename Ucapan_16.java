@@ -4,6 +4,7 @@ public class Ucapan_16 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Tuliskan NAMA orang yang ingin andda beri ucapan");
         String namaOrang = sc.nextLine();
+        System.out.println("Hai");
         sc.close();
         return namaOrang;
     }
